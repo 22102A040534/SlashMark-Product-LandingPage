@@ -1,4 +1,4 @@
-# SlashMark- Product-Landing-page
+#Product-Landing-page
 Welcome to Libraverse - a unique literary world that brings together the richness of English, Telugu, and Hindi literature. This GitHub repository serves as the digital home for Libraverse, where you can explore and contribute different language books.
 
 Language Selection: The virtual library includes sections for different languages:English,Telugu and Tamil. Users can choose a language, and the corresponding content will be displayed.
